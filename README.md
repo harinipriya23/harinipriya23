@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently deepening my skills in **React, Tailwind CSS, JavaScript, Java and Java Fullstack**
 - 💼 Currently open to **Frontend Developer Internships** and **Junior Developer Roles**
-- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/harinipriya23/)
+- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/harinipriya23?tab=repositories)
 - 💬 Ask me about **React, Tailwind CSS, GitHub, JavaScript**
 - 📫 Reach me at: **harinipriyaarunjunaivel@gmail.com**
 - 🧠 I'm also learning **Data Structures & Algorithms** and **System Design**
