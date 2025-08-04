@@ -27,8 +27,9 @@
 
 ### 📌 Featured Projects
 
-- 🌐 **Healthcare Dashboard** – Admin dashboard with filtering, charts, and UI design (React + Recharts)
-- 🪐 **NASA Kepler Project UI** – Launch/abort simulation frontend with dark mode (React)
+- 🏠 **Real Estate Application** – Property listing platform with reusable components, filters, and mock backend (React + Tailwind CSS)
+- 🪐 **NASA Kepler Project UI** – Launch/abort simulation frontend with dark mode (React)  
+- 🍽️ **Restaurant Application** – Food ordering app with cart system, place order functionality, and authentication (React)
 
 ---
 
