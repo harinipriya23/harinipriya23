@@ -9,6 +9,7 @@
 - 💬 Ask me about **React, Tailwind CSS, GitHub, JavaScript**
 - 📫 Reach me at: **harinipriyaarunjunaivel@gmail.com**
 - 🧠 I'm also learning **Data Structures & Algorithms** and **System Design**
+- 🧩 I’ve solved **50+ problems** on [LeetCode](https://leetcode.com/u/Harinipriya23/)
 
 ---
 
@@ -38,7 +39,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harini-priya-arunjunaivel2030/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harinipriyaarunjunaivel@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harinipriya23)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Harinipriya23/)
 
 ---
 
 🧠 _“Code with curiosity, build with passion.”_ 🚀
+
